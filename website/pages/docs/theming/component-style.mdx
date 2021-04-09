@@ -166,7 +166,7 @@ function Button(props) {
   const styles = useStyleConfig("Button", { size, variant })
 
   // 3. Pass the computed styles into the `sx` prop
-  return <Box as="button" sx={styles} {...rest} />
+  return <Box as="button" __css={styles} {...rest} />
 }
 ```
 
@@ -312,7 +312,7 @@ function Menu(props) {
   const styles = useMultiStyleConfig("Menu", { size, variant })
 
   return (
-    <Flex sx={styles.menu} {...rest}>
+    <Flex __css={styles.menu} {...rest}>
       {/* 3. Mount the computed styles on `StylesProvider` */}
       <StylesProvider value={styles}>{children}</StylesProvider>
     </Flex>
@@ -322,7 +322,7 @@ function Menu(props) {
 function MenuItem(props) {
   // 4. Read computed `item` styles from styles provider
   const styles = useStyles()
-  return <Box as="button" sx={styles.item} {...props} />
+  return <Box as="button" __css={styles.item} {...props} />
 }
 ```
 
