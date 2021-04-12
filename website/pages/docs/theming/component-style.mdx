@@ -165,7 +165,7 @@ function Button(props) {
   // 2. Reference `Button` stored in `theme.components`
   const styles = useStyleConfig("Button", { size, variant })
 
-  // 3. Pass the computed styles into the `sx` prop
+  // 3. Pass the computed styles into the `__css` prop
   return <Box as="button" __css={styles} {...rest} />
 }
 ```
