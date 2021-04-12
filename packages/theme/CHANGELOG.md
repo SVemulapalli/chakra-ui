@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.8.2
+
+### Patch Changes
+
+- [`890839d9f`](https://github.com/chakra-ui/chakra-ui/commit/890839d9fe32d5ec90954c8f4c5b6c463ff0b57d)
+  [#3765](https://github.com/chakra-ui/chakra-ui/pull/3765) Thanks
+  [@segunadebayo](https://github.com/segunadebayo)! - Update input, alert and
+  tabs RTL styles
+
 ## 1.8.1
 
 ### Patch Changes

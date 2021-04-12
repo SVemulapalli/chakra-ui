@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.2.2
+
+### Patch Changes
+
+- [`9fcccbe34`](https://github.com/chakra-ui/chakra-ui/commit/9fcccbe348f87fb4a386450e5327bb578e14cb16)
+  [#3765](https://github.com/chakra-ui/chakra-ui/pull/3765) Thanks
+  [@segunadebayo](https://github.com/segunadebayo)! - Update button group styles
+  to use rtl-friendly equivalent
+
 ## 1.2.1
 
 ### Patch Changes

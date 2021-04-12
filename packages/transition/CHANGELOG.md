@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.2.0
+
+### Minor Changes
+
+- [`5617aabea`](https://github.com/chakra-ui/chakra-ui/commit/5617aabeaa6c3faef37deeebeddbc9bf3cc88088)
+  [#3726](https://github.com/chakra-ui/chakra-ui/pull/3726) Thanks
+  [@RadovanPelka](https://github.com/RadovanPelka)! - Allow custom transition
+  variants
+
 ## 1.1.2
 
 ### Patch Changes

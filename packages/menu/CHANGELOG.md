@@ -1,5 +1,35 @@
 # Change Log
 
+## 1.4.0
+
+### Minor Changes
+
+- [`29148130a`](https://github.com/chakra-ui/chakra-ui/commit/29148130a699409322931cc6ba1b970b7afeefbd)
+  [#3762](https://github.com/chakra-ui/chakra-ui/pull/3762) Thanks
+  [@franky47](https://github.com/franky47)! - Add `closeOnSelect` to `MenuItem`
+  and `MenuItemOption`.
+
+  This allows menu items to override their parent `Menu`'s `closeOnSelect`
+  behavior.
+
+  Can be useful for menus with a combination of `MenuItem`s (that generally
+  close their menu when selected) and `MenuItemOption`s (that should keep the
+  menu open for further edition).
+
+### Patch Changes
+
+- [`a588116f9`](https://github.com/chakra-ui/chakra-ui/commit/a588116f92911769334132d90ccec01d49f029aa)
+  Thanks [@segunadebayo](https://github.com/segunadebayo)! - - Do not unmount
+  menu list after first render
+
+- Updated dependencies
+  [[`5617aabea`](https://github.com/chakra-ui/chakra-ui/commit/5617aabeaa6c3faef37deeebeddbc9bf3cc88088),
+  [`1615af488`](https://github.com/chakra-ui/chakra-ui/commit/1615af4881a6f37cffb7ea15078cf7ab6a4e4c79),
+  [`a73198529`](https://github.com/chakra-ui/chakra-ui/commit/a7319852908f68596600da799ef08a0e7dbb468e)]:
+  - @chakra-ui/transition@1.2.0
+  - @chakra-ui/popper@2.1.1
+  - @chakra-ui/clickable@1.1.2
+
 ## 1.3.1
 
 ### Patch Changes

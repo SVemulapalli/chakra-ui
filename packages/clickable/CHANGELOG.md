@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.1.2
+
+### Patch Changes
+
+- [`a73198529`](https://github.com/chakra-ui/chakra-ui/commit/a7319852908f68596600da799ef08a0e7dbb468e)
+  [#3775](https://github.com/chakra-ui/chakra-ui/pull/3775) Thanks
+  [@tomchentw](https://github.com/tomchentw)! - Add missing dependency issue of
+  `@chakra-ui/react-utils`
+
 ## 1.1.1
 
 ### Patch Changes

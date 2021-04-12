@@ -1,5 +1,18 @@
 # Change Log
 
+## 1.3.2
+
+### Patch Changes
+
+- [`a73198529`](https://github.com/chakra-ui/chakra-ui/commit/a7319852908f68596600da799ef08a0e7dbb468e)
+  [#3775](https://github.com/chakra-ui/chakra-ui/pull/3775) Thanks
+  [@tomchentw](https://github.com/tomchentw)! - Add missing dependency issue of
+  `@chakra-ui/react-utils`
+
+- Updated dependencies
+  [[`1615af488`](https://github.com/chakra-ui/chakra-ui/commit/1615af4881a6f37cffb7ea15078cf7ab6a4e4c79)]:
+  - @chakra-ui/popper@2.1.1
+
 ## 1.3.1
 
 ### Patch Changes

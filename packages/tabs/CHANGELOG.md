@@ -1,5 +1,18 @@
 # Change Log
 
+## 1.3.2
+
+### Patch Changes
+
+- [`fce6d8ecb`](https://github.com/chakra-ui/chakra-ui/commit/fce6d8ecb17b6fe5792804a980cfbe5367d519da)
+  [#3763](https://github.com/chakra-ui/chakra-ui/pull/3763) Thanks
+  [@stellarhoof](https://github.com/stellarhoof)! - Do not unmount lazy tabs
+  when unselected
+
+- Updated dependencies
+  [[`a73198529`](https://github.com/chakra-ui/chakra-ui/commit/a7319852908f68596600da799ef08a0e7dbb468e)]:
+  - @chakra-ui/clickable@1.1.2
+
 ## 1.3.1
 
 ### Patch Changes

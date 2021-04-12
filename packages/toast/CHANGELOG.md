@@ -1,5 +1,20 @@
 # Change Log
 
+## 1.2.3
+
+### Patch Changes
+
+- [`327f00644`](https://github.com/chakra-ui/chakra-ui/commit/327f00644d3336fe1e2d3152f9cc3474a18824ef)
+  [#3765](https://github.com/chakra-ui/chakra-ui/pull/3765) Thanks
+  [@segunadebayo](https://github.com/segunadebayo)! - Fix RTL styles for toast
+  component
+
+- Updated dependencies
+  [[`5617aabea`](https://github.com/chakra-ui/chakra-ui/commit/5617aabeaa6c3faef37deeebeddbc9bf3cc88088),
+  [`890839d9f`](https://github.com/chakra-ui/chakra-ui/commit/890839d9fe32d5ec90954c8f4c5b6c463ff0b57d)]:
+  - @chakra-ui/transition@1.2.0
+  - @chakra-ui/theme@1.8.2
+
 ## 1.2.2
 
 ### Patch Changes

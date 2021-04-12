@@ -1,5 +1,18 @@
 # Change Log
 
+## 1.5.1
+
+### Patch Changes
+
+- [`782aa7f27`](https://github.com/chakra-ui/chakra-ui/commit/782aa7f27cfed28785f63aa294c3a6532ac47a06)
+  [#3765](https://github.com/chakra-ui/chakra-ui/pull/3765) Thanks
+  [@segunadebayo](https://github.com/segunadebayo)! - - Fix RTL styles for close
+  button
+  - Do not unmount lazy popovers after first render
+- Updated dependencies
+  [[`1615af488`](https://github.com/chakra-ui/chakra-ui/commit/1615af4881a6f37cffb7ea15078cf7ab6a4e4c79)]:
+  - @chakra-ui/popper@2.1.1
+
 ## 1.5.0
 
 ### Minor Changes

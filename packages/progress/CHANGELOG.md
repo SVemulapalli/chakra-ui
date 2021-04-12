@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.1.6
+
+### Patch Changes
+
+- [`dd2257935`](https://github.com/chakra-ui/chakra-ui/commit/dd225793575ff88aa2a2114a5840150ac3cf744c)
+  [#3768](https://github.com/chakra-ui/chakra-ui/pull/3768) Thanks
+  [@lorenzorapetti](https://github.com/lorenzorapetti)! - Fix an issue where
+  `CircularProgress` with `isIndeterminate` doesn't show the indicator
+
 ## 1.1.5
 
 ### Patch Changes

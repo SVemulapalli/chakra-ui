@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.8.2
+
+### Patch Changes
+
+- Updated dependencies
+  [[`5617aabea`](https://github.com/chakra-ui/chakra-ui/commit/5617aabeaa6c3faef37deeebeddbc9bf3cc88088)]:
+  - @chakra-ui/transition@1.2.0
+
 ## 1.8.1
 
 ### Patch Changes
